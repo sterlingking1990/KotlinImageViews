@@ -41,7 +41,7 @@
 ###### this will position the image within a row/col scale of the dimension. i.e it first makes a row col grid of the dimension and then places the image in the first row first col of the matrix
 
 ## fitStart 
-###### this will fit the image to the top of the dimension. usually the top
+###### thwis will fit the image to the top of the dimension. usually the top
 
 ## fitEmd
 ###### this will fit the image to the end of the dimension. usually the bottom
