@@ -30,4 +30,22 @@
 ###### working with centerinside will make the image to be positioned inside as though its been zoomed out from the center of the ImageView
 ###### this further makes the image appear smaller
 
+## centerCrop
+###### centerCrop scaleType is usually the preferred if you are looking at getting the dimension to adjust in height and width to fit the scale of the image
+###### it does not distort the images origin quality
+
+## fitXY
+###### this will scale the image to stretch to the X axis and Y axis of the dimension fo the ImageView
+
+## matrix
+###### this will position the image within a row/col scale of the dimension. i.e it first makes a row col grid of the dimension and then places the image in the first row first col of the matrix
+
+## fitStart 
+###### this will fit the image to the top of the dimension. usually the top
+
+## fitEmd
+###### this will fit the image to the end of the dimension. usually the bottom
+
+## fitCenter
+###### this will fit the image to the center, it works like center Inside as well
 
