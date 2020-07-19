@@ -27,3 +27,7 @@
 ###### size of the dp you choose, the image is placed to the center, and it could make the image appear smaller since it doesnt occupy the intended space
 
 ## centerInside
+###### working with centerinside will make the image to be positioned inside as though its been zoomed out from the center of the ImageView
+###### this further makes the image appear smaller
+
+
